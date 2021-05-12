@@ -1,4 +1,13 @@
 #about {
+  // new
+
+  min-height: 100vh;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  border-bottom: 0px;
+
+  // new
   background-color: $primary-color;
   background-image: linear-gradient(
     135deg,
@@ -49,6 +58,7 @@
 
       &-text {
         text-align: left;
+        font-size: 1.8rem;
 
         @include respond(tab-port) {
           text-align: left;
