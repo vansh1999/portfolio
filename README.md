@@ -1,3 +1,3 @@
 # portfolio link
 
-https://iamvansh.netlify.app/
+https://www.vanshbhardwaj.tech/
